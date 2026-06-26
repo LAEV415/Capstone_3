@@ -11,3 +11,4 @@ This project was specifically designed to be presented to the West region's sale
 
 Please find the link below where I do a 10-minute walk through the data model and key business insights:
 
+https://drive.google.com/file/d/1T-htm9zveKxlSpGHwPCkKiwSUu6FWlNy/view?usp=sharing
